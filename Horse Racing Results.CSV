@@ -1,4 +1,4 @@
-Dato;Track;Race Number;Distance;Surface;Prize money;Starting position;Jockey;Jockey weight;Country;Horse age;TrainerName;Race time;Path;Final place;FGrating;Odds;RaceType;HorseId;JockeyId;TrainerID
+Dato;Track;RaceNumber;Distance;Surface;PrizeMoney;StartingPosition;Jockey;JockeyWeight;Country;HorseAge;TrainerName;RaceTime;Path;FinalPlace;FGrating;Odds;RaceType;HorseId;JockeyId;TrainerID
 03.09.2017;Sha Tin;10;1400;Gress;1310000;6;K C Leung;52;Sverige;7;CH Yip;83,38;2;9;110;22;Handicap;1736;8656;6687
 16.09.2017;Sha Tin;10;1400;Gress;1310000;14;C Y Ho;52;Sverige;7;CH Yip;81,56;3;4;124;48;Handicap;1736;8659;6687
 14.10.2017;Sha Tin;10;1400;Gress;1310000;8;C Y Ho;52;Sverige;7;CH Yip;82,36;1;6;118;11;Handicap;1736;8659;6687
